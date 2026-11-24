@@ -1,0 +1,601 @@
+student_id,predicted_final_marks,pass_probability,fail_probability,pass_fail_prediction,academic_risk,segment,actual_final_marks
+S0001,56.2,0.993,0.007,Pass,Low,High Performing,55.0
+S0002,52.2,0.968,0.032,Pass,Low,Average,54.2
+S0003,53.1,0.97,0.03,Pass,Low,High Performing,47.5
+S0004,42.6,0.65,0.35,Pass,Medium,Average,37.2
+S0005,44.1,0.698,0.302,Pass,Medium,High Performing,43.4
+S0006,63.2,0.999,0.001,Pass,Low,High Performing,68.0
+S0007,40.0,0.423,0.577,Fail,Medium,High Performing,45.3
+S0008,44.6,0.727,0.273,Pass,Low,High Performing,47.9
+S0009,38.3,0.305,0.695,Fail,High,At-Risk,38.4
+S0010,56.0,0.99,0.01,Pass,Low,Average,52.4
+S0011,45.9,0.811,0.189,Pass,Low,Average,40.7
+S0012,25.1,0.004,0.996,Fail,High,At-Risk,22.2
+S0013,38.1,0.18,0.82,Fail,High,At-Risk,40.0
+S0014,41.5,0.493,0.507,Fail,Medium,Average,43.4
+S0015,39.9,0.255,0.745,Fail,High,Average,29.4
+S0016,49.5,0.936,0.064,Pass,Low,High Performing,45.8
+S0017,46.4,0.834,0.166,Pass,Low,High Performing,52.9
+S0018,62.7,0.999,0.001,Pass,Low,High Performing,63.6
+S0019,24.8,0.004,0.996,Fail,High,At-Risk,17.3
+S0020,40.7,0.457,0.543,Fail,Medium,At-Risk,52.1
+S0021,51.2,0.955,0.045,Pass,Low,Average,51.3
+S0022,53.2,0.966,0.034,Pass,Low,High Performing,55.8
+S0023,36.7,0.235,0.765,Fail,High,Average,38.6
+S0024,42.6,0.428,0.572,Fail,Medium,At-Risk,43.8
+S0025,51.2,0.934,0.066,Pass,Low,Average,47.5
+S0026,49.8,0.9,0.1,Pass,Low,High Performing,60.6
+S0027,32.8,0.054,0.946,Fail,High,At-Risk,37.3
+S0028,58.9,0.992,0.008,Pass,Low,High Performing,63.6
+S0029,45.1,0.593,0.407,Pass,Medium,High Performing,48.6
+S0030,51.7,0.947,0.053,Pass,Low,High Performing,46.7
+S0031,31.7,0.046,0.954,Fail,High,At-Risk,37.5
+S0032,47.4,0.78,0.22,Pass,Low,High Performing,43.8
+S0033,37.1,0.178,0.822,Fail,High,Average,36.4
+S0034,46.5,0.825,0.175,Pass,Low,At-Risk,38.2
+S0035,34.0,0.089,0.911,Fail,High,At-Risk,23.4
+S0036,49.6,0.939,0.061,Pass,Low,High Performing,51.3
+S0037,46.0,0.706,0.294,Pass,Low,High Performing,42.3
+S0038,62.6,0.999,0.001,Pass,Low,High Performing,53.5
+S0039,41.2,0.562,0.438,Pass,Medium,At-Risk,44.8
+S0040,43.6,0.486,0.514,Fail,Medium,Average,54.5
+S0041,38.5,0.332,0.668,Fail,High,Average,45.3
+S0042,31.1,0.027,0.973,Fail,High,At-Risk,29.6
+S0043,37.8,0.195,0.805,Fail,High,Average,37.5
+S0044,50.7,0.925,0.075,Pass,Low,High Performing,55.4
+S0045,38.8,0.195,0.805,Fail,High,High Performing,44.6
+S0046,48.5,0.842,0.158,Pass,Low,High Performing,47.1
+S0047,42.5,0.55,0.45,Pass,Medium,At-Risk,42.4
+S0048,37.2,0.154,0.846,Fail,High,At-Risk,38.0
+S0049,34.2,0.056,0.944,Fail,High,Average,37.0
+S0050,33.7,0.081,0.919,Fail,High,At-Risk,33.1
+S0051,41.9,0.621,0.379,Pass,Medium,At-Risk,40.8
+S0052,48.6,0.93,0.07,Pass,Low,Average,55.4
+S0053,45.8,0.827,0.173,Pass,Low,High Performing,52.1
+S0054,42.7,0.685,0.315,Pass,Medium,At-Risk,44.9
+S0055,51.1,0.965,0.035,Pass,Low,High Performing,59.7
+S0056,28.9,0.012,0.988,Fail,High,Average,26.7
+S0057,24.8,0.004,0.996,Fail,High,At-Risk,32.6
+S0058,49.6,0.908,0.092,Pass,Low,High Performing,52.3
+S0059,55.8,0.986,0.014,Pass,Low,Average,72.3
+S0060,49.4,0.866,0.134,Pass,Low,Average,44.0
+S0061,41.0,0.339,0.661,Fail,High,At-Risk,37.4
+S0062,61.1,0.998,0.002,Pass,Low,High Performing,64.1
+S0063,60.5,0.997,0.003,Pass,Low,High Performing,62.6
+S0064,40.0,0.435,0.565,Fail,Medium,Average,49.9
+S0065,44.2,0.612,0.388,Pass,Medium,Average,41.7
+S0066,56.8,0.994,0.006,Pass,Low,High Performing,61.3
+S0067,43.0,0.589,0.411,Pass,Medium,High Performing,49.3
+S0068,55.1,0.983,0.017,Pass,Low,High Performing,58.7
+S0069,26.5,0.012,0.988,Fail,High,At-Risk,21.0
+S0070,49.5,0.905,0.095,Pass,Low,High Performing,56.4
+S0071,48.4,0.896,0.104,Pass,Low,High Performing,54.8
+S0072,38.4,0.369,0.631,Fail,High,At-Risk,36.3
+S0073,39.2,0.279,0.721,Fail,High,At-Risk,40.1
+S0074,49.9,0.909,0.091,Pass,Low,High Performing,51.3
+S0075,54.9,0.987,0.013,Pass,Low,Average,55.1
+S0076,33.0,0.09,0.91,Fail,High,At-Risk,37.8
+S0077,42.4,0.621,0.379,Pass,Medium,At-Risk,41.9
+S0078,53.2,0.967,0.033,Pass,Low,High Performing,49.2
+S0079,42.5,0.443,0.557,Fail,Medium,Average,37.6
+S0080,37.0,0.206,0.794,Fail,High,At-Risk,32.8
+S0081,43.5,0.64,0.36,Pass,Medium,At-Risk,44.4
+S0082,41.7,0.613,0.387,Pass,Medium,At-Risk,40.5
+S0083,50.1,0.942,0.058,Pass,Low,High Performing,51.4
+S0084,34.6,0.067,0.933,Fail,High,At-Risk,36.7
+S0085,52.8,0.953,0.047,Pass,Low,High Performing,50.1
+S0086,54.8,0.986,0.014,Pass,Low,High Performing,62.3
+S0087,49.2,0.87,0.13,Pass,Low,High Performing,48.0
+S0088,46.9,0.855,0.145,Pass,Low,Average,44.7
+S0089,45.0,0.757,0.243,Pass,Low,Average,47.6
+S0090,48.8,0.895,0.105,Pass,Low,High Performing,40.1
+S0091,46.0,0.837,0.163,Pass,Low,High Performing,42.2
+S0092,38.7,0.298,0.702,Fail,High,Average,43.6
+S0093,47.9,0.827,0.173,Pass,Low,Average,39.2
+S0094,54.0,0.971,0.029,Pass,Low,High Performing,60.2
+S0095,33.0,0.06,0.94,Fail,High,Average,40.6
+S0096,28.3,0.01,0.99,Fail,High,At-Risk,25.9
+S0097,47.4,0.809,0.191,Pass,Low,High Performing,49.0
+S0098,34.4,0.054,0.946,Fail,High,At-Risk,40.0
+S0099,55.1,0.978,0.022,Pass,Low,High Performing,53.2
+S0100,45.0,0.786,0.214,Pass,Low,High Performing,49.5
+S0101,40.0,0.281,0.719,Fail,High,Average,36.7
+S0102,37.0,0.167,0.833,Fail,High,At-Risk,34.0
+S0103,41.4,0.371,0.629,Fail,High,At-Risk,37.4
+S0104,50.3,0.962,0.038,Pass,Low,Average,51.8
+S0105,46.1,0.817,0.183,Pass,Low,At-Risk,51.4
+S0106,47.1,0.845,0.155,Pass,Low,Average,46.4
+S0107,51.1,0.949,0.051,Pass,Low,High Performing,45.3
+S0108,49.2,0.902,0.098,Pass,Low,High Performing,41.1
+S0109,40.7,0.5,0.5,Pass,Medium,Average,42.5
+S0110,37.9,0.175,0.825,Fail,High,At-Risk,46.4
+S0111,32.1,0.063,0.937,Fail,High,At-Risk,33.3
+S0112,43.2,0.445,0.555,Fail,Medium,High Performing,41.4
+S0113,31.7,0.047,0.953,Fail,High,At-Risk,35.6
+S0114,56.8,0.989,0.011,Pass,Low,Average,56.0
+S0115,48.4,0.915,0.085,Pass,Low,Average,46.7
+S0116,36.9,0.119,0.881,Fail,High,At-Risk,31.9
+S0117,53.7,0.986,0.014,Pass,Low,Average,60.6
+S0118,44.4,0.774,0.226,Pass,Low,Average,31.9
+S0119,41.0,0.548,0.452,Pass,Medium,At-Risk,44.7
+S0120,45.1,0.698,0.302,Pass,Medium,Average,42.5
+S0121,30.1,0.034,0.966,Fail,High,At-Risk,27.1
+S0122,47.0,0.777,0.223,Pass,Low,High Performing,55.8
+S0123,29.6,0.017,0.983,Fail,High,At-Risk,25.4
+S0124,48.3,0.92,0.08,Pass,Low,Average,44.9
+S0125,57.3,0.991,0.009,Pass,Low,High Performing,57.1
+S0126,57.9,0.993,0.007,Pass,Low,High Performing,60.6
+S0127,58.0,0.996,0.004,Pass,Low,High Performing,56.2
+S0128,38.5,0.255,0.745,Fail,High,At-Risk,28.8
+S0129,31.6,0.05,0.95,Fail,High,At-Risk,30.3
+S0130,32.9,0.045,0.955,Fail,High,At-Risk,28.3
+S0131,60.3,0.997,0.003,Pass,Low,High Performing,61.1
+S0132,48.3,0.908,0.092,Pass,Low,Average,50.2
+S0133,35.3,0.102,0.898,Fail,High,At-Risk,33.2
+S0134,34.8,0.062,0.938,Fail,High,Average,31.6
+S0135,37.1,0.217,0.783,Fail,High,At-Risk,45.2
+S0136,39.5,0.459,0.541,Fail,Medium,At-Risk,37.8
+S0137,41.0,0.477,0.523,Fail,Medium,Average,38.7
+S0138,43.4,0.653,0.347,Pass,Medium,Average,48.6
+S0139,52.3,0.963,0.037,Pass,Low,At-Risk,48.5
+S0140,47.0,0.879,0.121,Pass,Low,At-Risk,43.6
+S0141,56.8,0.992,0.008,Pass,Low,High Performing,57.2
+S0142,38.4,0.363,0.637,Fail,High,At-Risk,37.8
+S0143,52.3,0.965,0.035,Pass,Low,At-Risk,53.3
+S0144,50.3,0.951,0.049,Pass,Low,High Performing,60.9
+S0145,38.3,0.319,0.681,Fail,High,At-Risk,39.6
+S0146,41.9,0.545,0.455,Pass,Medium,Average,30.1
+S0147,41.2,0.508,0.492,Pass,Medium,At-Risk,42.6
+S0148,62.2,0.998,0.002,Pass,Low,High Performing,62.6
+S0149,49.0,0.92,0.08,Pass,Low,High Performing,49.4
+S0150,41.6,0.542,0.458,Pass,Medium,At-Risk,42.2
+S0151,47.5,0.823,0.177,Pass,Low,Average,47.5
+S0152,34.0,0.056,0.944,Fail,High,At-Risk,32.9
+S0153,43.6,0.634,0.366,Pass,Medium,Average,46.7
+S0154,57.1,0.995,0.005,Pass,Low,Average,54.6
+S0155,42.9,0.577,0.423,Pass,Medium,Average,38.0
+S0156,28.5,0.013,0.987,Fail,High,Average,43.6
+S0157,40.7,0.356,0.644,Fail,High,At-Risk,36.6
+S0158,60.6,0.996,0.004,Pass,Low,High Performing,61.5
+S0159,40.4,0.261,0.739,Fail,High,At-Risk,32.9
+S0160,44.3,0.684,0.316,Pass,Medium,High Performing,45.4
+S0161,54.1,0.973,0.027,Pass,Low,Average,49.5
+S0162,49.6,0.868,0.132,Pass,Low,High Performing,47.6
+S0163,45.0,0.772,0.228,Pass,Low,At-Risk,50.0
+S0164,38.7,0.239,0.761,Fail,High,At-Risk,40.8
+S0165,53.7,0.976,0.024,Pass,Low,Average,56.6
+S0166,48.5,0.839,0.161,Pass,Low,High Performing,40.1
+S0167,38.5,0.361,0.639,Fail,High,At-Risk,46.8
+S0168,47.6,0.892,0.108,Pass,Low,Average,41.4
+S0169,52.5,0.951,0.049,Pass,Low,High Performing,60.6
+S0170,49.2,0.94,0.06,Pass,Low,Average,54.3
+S0171,38.9,0.238,0.762,Fail,High,At-Risk,40.1
+S0172,48.2,0.871,0.129,Pass,Low,Average,51.2
+S0173,40.3,0.29,0.71,Fail,High,At-Risk,41.1
+S0174,39.8,0.295,0.705,Fail,High,High Performing,37.8
+S0175,43.6,0.55,0.45,Pass,Medium,At-Risk,43.6
+S0176,45.0,0.801,0.199,Pass,Low,At-Risk,43.3
+S0177,33.3,0.052,0.948,Fail,High,At-Risk,22.4
+S0178,50.2,0.953,0.047,Pass,Low,At-Risk,55.6
+S0179,30.6,0.032,0.968,Fail,High,At-Risk,29.5
+S0180,41.2,0.335,0.665,Fail,High,At-Risk,38.5
+S0181,51.2,0.913,0.087,Pass,Low,High Performing,49.0
+S0182,34.4,0.067,0.933,Fail,High,At-Risk,35.6
+S0183,35.5,0.167,0.833,Fail,High,At-Risk,30.2
+S0184,51.3,0.936,0.064,Pass,Low,At-Risk,40.1
+S0185,33.4,0.05,0.95,Fail,High,At-Risk,35.0
+S0186,62.5,0.998,0.002,Pass,Low,High Performing,65.8
+S0187,36.4,0.126,0.874,Fail,High,At-Risk,35.2
+S0188,40.3,0.486,0.514,Fail,Medium,Average,34.3
+S0189,33.5,0.088,0.912,Fail,High,At-Risk,33.3
+S0190,36.0,0.095,0.905,Fail,High,High Performing,28.2
+S0191,47.4,0.795,0.205,Pass,Low,Average,42.4
+S0192,35.3,0.119,0.881,Fail,High,Average,31.3
+S0193,53.0,0.974,0.026,Pass,Low,High Performing,47.4
+S0194,35.6,0.128,0.872,Fail,High,At-Risk,33.0
+S0195,48.3,0.849,0.151,Pass,Low,Average,46.0
+S0196,40.3,0.529,0.471,Pass,Medium,At-Risk,49.2
+S0197,45.2,0.732,0.268,Pass,Low,Average,46.7
+S0198,48.1,0.842,0.158,Pass,Low,High Performing,49.8
+S0199,49.0,0.94,0.06,Pass,Low,At-Risk,47.0
+S0200,57.0,0.992,0.008,Pass,Low,High Performing,54.2
+S0201,46.9,0.815,0.185,Pass,Low,At-Risk,33.6
+S0202,50.3,0.927,0.073,Pass,Low,High Performing,55.7
+S0203,49.2,0.932,0.068,Pass,Low,Average,51.5
+S0204,49.0,0.906,0.094,Pass,Low,Average,48.3
+S0205,37.9,0.16,0.84,Fail,High,Average,37.3
+S0206,52.9,0.978,0.022,Pass,Low,Average,56.8
+S0207,51.6,0.969,0.031,Pass,Low,At-Risk,43.7
+S0208,45.1,0.76,0.24,Pass,Low,At-Risk,41.7
+S0209,57.3,0.991,0.009,Pass,Low,High Performing,51.6
+S0210,54.2,0.973,0.027,Pass,Low,High Performing,61.6
+S0211,43.5,0.671,0.329,Pass,Medium,High Performing,47.8
+S0212,44.3,0.729,0.271,Pass,Low,Average,33.2
+S0213,29.7,0.022,0.978,Fail,High,At-Risk,21.6
+S0214,42.4,0.49,0.51,Fail,Medium,High Performing,41.8
+S0215,56.8,0.989,0.011,Pass,Low,Average,56.2
+S0216,47.4,0.912,0.088,Pass,Low,Average,40.3
+S0217,40.7,0.469,0.531,Fail,Medium,Average,50.5
+S0218,32.5,0.063,0.937,Fail,High,At-Risk,32.8
+S0219,37.2,0.19,0.81,Fail,High,Average,39.1
+S0220,53.6,0.974,0.026,Pass,Low,High Performing,50.5
+S0221,52.0,0.967,0.033,Pass,Low,High Performing,55.7
+S0222,38.9,0.303,0.697,Fail,High,Average,36.4
+S0223,42.3,0.45,0.55,Fail,Medium,Average,41.4
+S0224,45.6,0.763,0.237,Pass,Low,At-Risk,48.2
+S0225,48.3,0.876,0.124,Pass,Low,High Performing,40.5
+S0226,34.0,0.119,0.881,Fail,High,At-Risk,41.3
+S0227,38.1,0.175,0.825,Fail,High,Average,38.9
+S0228,66.0,0.999,0.001,Pass,Low,Average,73.1
+S0229,43.1,0.514,0.486,Pass,Medium,At-Risk,40.8
+S0230,52.3,0.976,0.024,Pass,Low,Average,48.0
+S0231,28.7,0.016,0.984,Fail,High,At-Risk,22.2
+S0232,46.4,0.801,0.199,Pass,Low,High Performing,47.9
+S0233,41.9,0.656,0.344,Pass,Medium,Average,41.7
+S0234,40.8,0.359,0.641,Fail,High,At-Risk,38.3
+S0235,38.7,0.201,0.799,Fail,High,High Performing,33.7
+S0236,57.1,0.99,0.01,Pass,Low,Average,49.5
+S0237,39.3,0.217,0.783,Fail,High,Average,38.9
+S0238,46.2,0.869,0.131,Pass,Low,At-Risk,43.4
+S0239,41.6,0.462,0.538,Fail,Medium,Average,39.7
+S0240,51.6,0.958,0.042,Pass,Low,High Performing,59.5
+S0241,50.3,0.948,0.052,Pass,Low,At-Risk,49.7
+S0242,34.8,0.084,0.916,Fail,High,Average,40.8
+S0243,39.2,0.262,0.738,Fail,High,At-Risk,36.1
+S0244,42.6,0.42,0.58,Fail,Medium,At-Risk,43.7
+S0245,54.6,0.986,0.014,Pass,Low,High Performing,54.7
+S0246,42.7,0.506,0.494,Pass,Medium,Average,34.4
+S0247,30.2,0.024,0.976,Fail,High,At-Risk,37.3
+S0248,56.2,0.989,0.011,Pass,Low,Average,55.8
+S0249,42.4,0.472,0.528,Fail,Medium,At-Risk,46.1
+S0250,41.6,0.434,0.566,Fail,Medium,Average,37.7
+S0251,52.2,0.966,0.034,Pass,Low,High Performing,52.1
+S0252,38.0,0.316,0.684,Fail,High,At-Risk,33.3
+S0253,42.5,0.628,0.372,Pass,Medium,Average,48.5
+S0254,52.8,0.96,0.04,Pass,Low,High Performing,54.1
+S0255,55.0,0.972,0.028,Pass,Low,High Performing,57.7
+S0256,54.8,0.99,0.01,Pass,Low,High Performing,61.5
+S0257,46.9,0.751,0.249,Pass,Low,High Performing,53.1
+S0258,43.2,0.523,0.477,Pass,Medium,High Performing,47.0
+S0259,49.7,0.949,0.051,Pass,Low,Average,42.4
+S0260,42.5,0.572,0.428,Pass,Medium,Average,39.0
+S0261,34.1,0.054,0.946,Fail,High,At-Risk,28.8
+S0262,32.4,0.044,0.956,Fail,High,At-Risk,35.4
+S0263,58.4,0.996,0.004,Pass,Low,Average,59.4
+S0264,44.1,0.557,0.443,Pass,Medium,At-Risk,36.7
+S0265,45.0,0.623,0.377,Pass,Medium,High Performing,44.3
+S0266,35.4,0.088,0.912,Fail,High,Average,27.6
+S0267,46.1,0.799,0.201,Pass,Low,Average,45.7
+S0268,47.6,0.81,0.19,Pass,Low,High Performing,39.7
+S0269,41.9,0.566,0.434,Pass,Medium,Average,44.7
+S0270,39.7,0.383,0.617,Fail,High,At-Risk,41.3
+S0271,54.9,0.988,0.012,Pass,Low,High Performing,64.7
+S0272,58.2,0.994,0.006,Pass,Low,High Performing,62.4
+S0273,45.8,0.815,0.185,Pass,Low,High Performing,43.6
+S0274,46.9,0.866,0.134,Pass,Low,High Performing,49.7
+S0275,44.3,0.656,0.344,Pass,Medium,At-Risk,36.7
+S0276,41.9,0.58,0.42,Pass,Medium,Average,37.0
+S0277,49.5,0.95,0.05,Pass,Low,At-Risk,50.8
+S0278,45.8,0.797,0.203,Pass,Low,Average,35.2
+S0279,50.7,0.959,0.041,Pass,Low,High Performing,50.9
+S0280,45.8,0.782,0.218,Pass,Low,High Performing,41.0
+S0281,47.1,0.821,0.179,Pass,Low,At-Risk,47.1
+S0282,31.2,0.052,0.948,Fail,High,At-Risk,24.7
+S0283,54.2,0.984,0.016,Pass,Low,Average,56.6
+S0284,52.9,0.957,0.043,Pass,Low,High Performing,53.8
+S0285,53.8,0.982,0.018,Pass,Low,High Performing,60.9
+S0286,47.4,0.827,0.173,Pass,Low,At-Risk,46.9
+S0287,44.1,0.629,0.371,Pass,Medium,High Performing,42.9
+S0288,25.9,0.004,0.996,Fail,High,At-Risk,24.4
+S0289,46.0,0.851,0.149,Pass,Low,Average,39.2
+S0290,51.3,0.969,0.031,Pass,Low,High Performing,55.4
+S0291,49.6,0.874,0.126,Pass,Low,Average,52.7
+S0292,37.6,0.3,0.7,Fail,High,At-Risk,49.4
+S0293,38.2,0.189,0.811,Fail,High,Average,34.8
+S0294,36.1,0.159,0.841,Fail,High,At-Risk,34.2
+S0295,38.1,0.246,0.754,Fail,High,Average,35.1
+S0296,42.0,0.413,0.587,Fail,Medium,At-Risk,43.1
+S0297,36.8,0.12,0.88,Fail,High,At-Risk,31.3
+S0298,41.6,0.434,0.566,Fail,Medium,Average,49.4
+S0299,40.7,0.401,0.599,Fail,Medium,At-Risk,45.7
+S0300,51.0,0.95,0.05,Pass,Low,High Performing,48.4
+S0301,34.7,0.089,0.911,Fail,High,Average,38.9
+S0302,40.9,0.358,0.642,Fail,High,At-Risk,43.4
+S0303,43.3,0.703,0.297,Pass,Low,Average,42.9
+S0304,48.3,0.884,0.116,Pass,Low,High Performing,47.2
+S0305,47.3,0.795,0.205,Pass,Low,Average,59.6
+S0306,39.2,0.382,0.618,Fail,High,Average,35.0
+S0307,51.2,0.94,0.06,Pass,Low,At-Risk,52.4
+S0308,40.2,0.422,0.578,Fail,Medium,At-Risk,36.0
+S0309,31.3,0.044,0.956,Fail,High,At-Risk,39.4
+S0310,37.3,0.305,0.695,Fail,High,At-Risk,41.1
+S0311,34.1,0.101,0.899,Fail,High,Average,30.4
+S0312,39.6,0.24,0.76,Fail,High,Average,42.0
+S0313,53.5,0.973,0.027,Pass,Low,At-Risk,54.3
+S0314,44.1,0.654,0.346,Pass,Medium,Average,41.2
+S0315,19.4,0.001,0.999,Fail,High,At-Risk,20.4
+S0316,45.3,0.74,0.26,Pass,Low,Average,47.2
+S0317,55.2,0.981,0.019,Pass,Low,High Performing,56.4
+S0318,52.4,0.942,0.058,Pass,Low,High Performing,52.8
+S0319,43.0,0.504,0.496,Pass,Medium,At-Risk,45.3
+S0320,49.4,0.864,0.136,Pass,Low,High Performing,51.1
+S0321,38.7,0.245,0.755,Fail,High,Average,38.9
+S0322,50.6,0.936,0.064,Pass,Low,High Performing,47.4
+S0323,31.4,0.023,0.977,Fail,High,Average,39.7
+S0324,40.5,0.321,0.679,Fail,High,At-Risk,35.1
+S0325,48.2,0.837,0.163,Pass,Low,Average,50.1
+S0326,32.8,0.073,0.927,Fail,High,Average,31.0
+S0327,33.4,0.095,0.905,Fail,High,At-Risk,41.7
+S0328,36.1,0.141,0.859,Fail,High,At-Risk,31.3
+S0329,33.6,0.12,0.88,Fail,High,At-Risk,29.1
+S0330,43.7,0.686,0.314,Pass,Medium,At-Risk,38.7
+S0331,54.6,0.975,0.025,Pass,Low,Average,56.4
+S0332,48.1,0.89,0.11,Pass,Low,At-Risk,40.8
+S0333,45.6,0.78,0.22,Pass,Low,Average,42.9
+S0334,46.2,0.795,0.205,Pass,Low,High Performing,35.8
+S0335,34.5,0.123,0.877,Fail,High,At-Risk,35.0
+S0336,46.4,0.758,0.242,Pass,Low,High Performing,44.4
+S0337,53.3,0.963,0.037,Pass,Low,High Performing,46.2
+S0338,38.5,0.284,0.716,Fail,High,At-Risk,43.7
+S0339,43.5,0.611,0.389,Pass,Medium,At-Risk,36.3
+S0340,57.2,0.993,0.007,Pass,Low,High Performing,61.3
+S0341,42.9,0.512,0.488,Pass,Medium,At-Risk,39.0
+S0342,55.6,0.979,0.021,Pass,Low,High Performing,64.0
+S0343,43.1,0.597,0.403,Pass,Medium,At-Risk,46.7
+S0344,22.2,0.001,0.999,Fail,High,At-Risk,16.4
+S0345,38.1,0.257,0.743,Fail,High,Average,33.2
+S0346,39.9,0.453,0.547,Fail,Medium,Average,42.3
+S0347,49.4,0.918,0.082,Pass,Low,High Performing,48.7
+S0348,62.9,0.998,0.002,Pass,Low,High Performing,63.0
+S0349,47.9,0.857,0.143,Pass,Low,Average,54.2
+S0350,31.0,0.034,0.966,Fail,High,At-Risk,26.8
+S0351,37.2,0.254,0.746,Fail,High,At-Risk,37.2
+S0352,46.7,0.857,0.143,Pass,Low,At-Risk,51.5
+S0353,43.3,0.596,0.404,Pass,Medium,At-Risk,47.0
+S0354,40.6,0.403,0.597,Fail,Medium,Average,41.5
+S0355,55.3,0.979,0.021,Pass,Low,High Performing,54.0
+S0356,42.3,0.57,0.43,Pass,Medium,High Performing,33.9
+S0357,46.1,0.852,0.148,Pass,Low,Average,40.8
+S0358,44.2,0.659,0.341,Pass,Medium,At-Risk,45.5
+S0359,28.5,0.012,0.988,Fail,High,At-Risk,27.1
+S0360,48.8,0.906,0.094,Pass,Low,High Performing,49.5
+S0361,42.0,0.42,0.58,Fail,Medium,High Performing,47.3
+S0362,51.3,0.946,0.054,Pass,Low,High Performing,45.8
+S0363,55.4,0.99,0.01,Pass,Low,High Performing,54.9
+S0364,34.2,0.066,0.934,Fail,High,At-Risk,34.7
+S0365,44.1,0.732,0.268,Pass,Low,At-Risk,40.0
+S0366,40.7,0.325,0.675,Fail,High,Average,48.0
+S0367,37.7,0.262,0.738,Fail,High,At-Risk,42.1
+S0368,54.4,0.976,0.024,Pass,Low,High Performing,56.5
+S0369,48.8,0.894,0.106,Pass,Low,Average,57.6
+S0370,46.2,0.72,0.28,Pass,Low,High Performing,39.1
+S0371,43.6,0.686,0.314,Pass,Medium,High Performing,43.5
+S0372,40.2,0.285,0.715,Fail,High,At-Risk,42.0
+S0373,48.7,0.856,0.144,Pass,Low,High Performing,44.4
+S0374,48.7,0.89,0.11,Pass,Low,High Performing,50.3
+S0375,54.4,0.986,0.014,Pass,Low,Average,48.9
+S0376,60.6,0.997,0.003,Pass,Low,Average,64.7
+S0377,42.8,0.574,0.426,Pass,Medium,High Performing,46.4
+S0378,48.1,0.888,0.112,Pass,Low,At-Risk,49.5
+S0379,51.7,0.957,0.043,Pass,Low,High Performing,43.5
+S0380,41.2,0.505,0.495,Pass,Medium,High Performing,36.6
+S0381,48.8,0.878,0.122,Pass,Low,Average,51.7
+S0382,44.7,0.753,0.247,Pass,Low,At-Risk,44.8
+S0383,47.7,0.818,0.182,Pass,Low,High Performing,34.4
+S0384,38.2,0.258,0.742,Fail,High,At-Risk,43.9
+S0385,43.4,0.581,0.419,Pass,Medium,At-Risk,44.8
+S0386,46.1,0.855,0.145,Pass,Low,Average,41.9
+S0387,41.7,0.611,0.389,Pass,Medium,At-Risk,46.2
+S0388,57.9,0.993,0.007,Pass,Low,High Performing,55.4
+S0389,33.8,0.072,0.928,Fail,High,At-Risk,30.3
+S0390,36.8,0.155,0.845,Fail,High,At-Risk,38.0
+S0391,47.2,0.878,0.122,Pass,Low,Average,56.1
+S0392,28.8,0.027,0.973,Fail,High,Average,35.9
+S0393,42.5,0.683,0.317,Pass,Medium,Average,44.0
+S0394,45.2,0.742,0.258,Pass,Low,Average,47.7
+S0395,49.3,0.886,0.114,Pass,Low,Average,53.3
+S0396,42.4,0.469,0.531,Fail,Medium,At-Risk,35.7
+S0397,44.6,0.734,0.266,Pass,Low,High Performing,47.7
+S0398,33.8,0.052,0.948,Fail,High,Average,30.1
+S0399,50.1,0.922,0.078,Pass,Low,High Performing,52.0
+S0400,45.2,0.837,0.163,Pass,Low,Average,43.8
+S0401,45.0,0.772,0.228,Pass,Low,High Performing,45.1
+S0402,38.6,0.324,0.676,Fail,High,Average,39.3
+S0403,40.7,0.543,0.457,Pass,Medium,Average,26.8
+S0404,42.4,0.583,0.417,Pass,Medium,At-Risk,42.6
+S0405,43.2,0.697,0.303,Pass,Medium,At-Risk,45.9
+S0406,39.5,0.284,0.716,Fail,High,At-Risk,41.3
+S0407,38.7,0.381,0.619,Fail,High,At-Risk,37.4
+S0408,40.2,0.346,0.654,Fail,High,Average,48.0
+S0409,40.4,0.403,0.597,Fail,Medium,Average,42.1
+S0410,44.7,0.736,0.264,Pass,Low,High Performing,46.9
+S0411,41.2,0.437,0.563,Fail,Medium,At-Risk,46.1
+S0412,55.0,0.985,0.015,Pass,Low,Average,56.6
+S0413,54.3,0.977,0.023,Pass,Low,High Performing,49.9
+S0414,44.9,0.781,0.219,Pass,Low,Average,34.1
+S0415,51.0,0.963,0.037,Pass,Low,Average,45.8
+S0416,39.8,0.339,0.661,Fail,High,High Performing,43.9
+S0417,65.3,0.999,0.001,Pass,Low,High Performing,64.3
+S0418,41.0,0.406,0.594,Fail,Medium,At-Risk,44.9
+S0419,42.4,0.602,0.398,Pass,Medium,At-Risk,42.5
+S0420,38.8,0.33,0.67,Fail,High,At-Risk,44.6
+S0421,35.1,0.075,0.925,Fail,High,At-Risk,33.0
+S0422,41.7,0.55,0.45,Pass,Medium,At-Risk,43.6
+S0423,35.7,0.174,0.826,Fail,High,At-Risk,37.1
+S0424,46.1,0.784,0.216,Pass,Low,Average,53.7
+S0425,53.7,0.984,0.016,Pass,Low,High Performing,42.2
+S0426,38.4,0.257,0.743,Fail,High,Average,35.8
+S0427,50.8,0.936,0.064,Pass,Low,Average,55.3
+S0428,28.5,0.012,0.988,Fail,High,Average,35.7
+S0429,33.5,0.087,0.913,Fail,High,At-Risk,34.2
+S0430,36.5,0.12,0.88,Fail,High,Average,34.8
+S0431,54.1,0.977,0.023,Pass,Low,High Performing,58.0
+S0432,37.1,0.202,0.798,Fail,High,At-Risk,41.0
+S0433,47.9,0.816,0.184,Pass,Low,Average,46.4
+S0434,41.0,0.532,0.468,Pass,Medium,Average,42.5
+S0435,40.8,0.402,0.598,Fail,Medium,Average,46.3
+S0436,30.5,0.026,0.974,Fail,High,At-Risk,39.2
+S0437,41.4,0.479,0.521,Fail,Medium,At-Risk,45.2
+S0438,54.3,0.981,0.019,Pass,Low,High Performing,54.9
+S0439,49.3,0.939,0.061,Pass,Low,Average,49.1
+S0440,53.0,0.961,0.039,Pass,Low,High Performing,56.4
+S0441,46.3,0.808,0.192,Pass,Low,Average,46.4
+S0442,40.4,0.362,0.638,Fail,High,Average,41.1
+S0443,53.9,0.985,0.015,Pass,Low,At-Risk,48.2
+S0444,42.3,0.581,0.419,Pass,Medium,High Performing,49.0
+S0445,46.4,0.763,0.237,Pass,Low,At-Risk,40.7
+S0446,41.0,0.292,0.708,Fail,High,High Performing,38.7
+S0447,41.3,0.43,0.57,Fail,Medium,Average,41.9
+S0448,45.7,0.798,0.202,Pass,Low,Average,54.2
+S0449,51.9,0.962,0.038,Pass,Low,High Performing,50.4
+S0450,58.6,0.996,0.004,Pass,Low,High Performing,56.0
+S0451,36.7,0.123,0.877,Fail,High,Average,33.8
+S0452,41.1,0.347,0.653,Fail,High,Average,49.6
+S0453,45.2,0.754,0.246,Pass,Low,High Performing,31.6
+S0454,52.1,0.957,0.043,Pass,Low,High Performing,47.1
+S0455,45.0,0.754,0.246,Pass,Low,At-Risk,58.5
+S0456,42.3,0.449,0.551,Fail,Medium,At-Risk,45.0
+S0457,38.0,0.191,0.809,Fail,High,High Performing,32.5
+S0458,45.8,0.68,0.32,Pass,Medium,At-Risk,45.5
+S0459,44.6,0.752,0.248,Pass,Low,At-Risk,44.7
+S0460,29.4,0.017,0.983,Fail,High,Average,32.9
+S0461,41.5,0.487,0.513,Fail,Medium,At-Risk,50.3
+S0462,42.5,0.531,0.469,Pass,Medium,Average,44.1
+S0463,47.8,0.909,0.091,Pass,Low,At-Risk,44.9
+S0464,61.4,0.998,0.002,Pass,Low,High Performing,65.6
+S0465,52.6,0.974,0.026,Pass,Low,High Performing,49.5
+S0466,59.9,0.997,0.003,Pass,Low,High Performing,55.0
+S0467,31.1,0.035,0.965,Fail,High,Average,21.9
+S0468,43.3,0.545,0.455,Pass,Medium,At-Risk,35.2
+S0469,44.1,0.741,0.259,Pass,Low,At-Risk,39.4
+S0470,43.1,0.47,0.53,Fail,Medium,High Performing,44.7
+S0471,35.9,0.16,0.84,Fail,High,Average,37.2
+S0472,42.8,0.564,0.436,Pass,Medium,At-Risk,36.8
+S0473,54.4,0.986,0.014,Pass,Low,High Performing,37.5
+S0474,48.9,0.923,0.077,Pass,Low,Average,43.5
+S0475,41.6,0.537,0.463,Pass,Medium,At-Risk,38.9
+S0476,48.6,0.896,0.104,Pass,Low,At-Risk,45.5
+S0477,52.6,0.972,0.028,Pass,Low,High Performing,60.6
+S0478,45.3,0.815,0.185,Pass,Low,At-Risk,41.9
+S0479,38.2,0.274,0.726,Fail,High,At-Risk,42.2
+S0480,48.4,0.89,0.11,Pass,Low,Average,48.0
+S0481,39.1,0.3,0.7,Fail,High,At-Risk,38.5
+S0482,37.2,0.184,0.816,Fail,High,At-Risk,32.9
+S0483,33.5,0.084,0.916,Fail,High,At-Risk,32.6
+S0484,39.8,0.245,0.755,Fail,High,At-Risk,35.9
+S0485,44.2,0.642,0.358,Pass,Medium,Average,48.5
+S0486,52.9,0.972,0.028,Pass,Low,Average,51.9
+S0487,40.6,0.337,0.663,Fail,High,Average,35.6
+S0488,52.8,0.958,0.042,Pass,Low,High Performing,57.9
+S0489,61.3,0.997,0.003,Pass,Low,High Performing,63.9
+S0490,34.9,0.105,0.895,Fail,High,At-Risk,32.0
+S0491,49.5,0.923,0.077,Pass,Low,High Performing,50.8
+S0492,44.6,0.745,0.255,Pass,Low,At-Risk,44.0
+S0493,49.1,0.912,0.088,Pass,Low,High Performing,45.3
+S0494,45.9,0.711,0.289,Pass,Low,Average,44.2
+S0495,49.8,0.912,0.088,Pass,Low,High Performing,47.0
+S0496,43.3,0.581,0.419,Pass,Medium,High Performing,38.6
+S0497,29.9,0.024,0.976,Fail,High,At-Risk,21.3
+S0498,42.7,0.657,0.343,Pass,Medium,Average,40.8
+S0499,38.9,0.307,0.693,Fail,High,At-Risk,38.6
+S0500,52.1,0.962,0.038,Pass,Low,Average,48.2
+S0501,45.6,0.8,0.2,Pass,Low,High Performing,58.3
+S0502,47.2,0.845,0.155,Pass,Low,High Performing,51.3
+S0503,51.6,0.939,0.061,Pass,Low,At-Risk,58.1
+S0504,46.8,0.786,0.214,Pass,Low,Average,50.8
+S0505,38.5,0.216,0.784,Fail,High,At-Risk,47.2
+S0506,36.2,0.239,0.761,Fail,High,At-Risk,31.4
+S0507,33.5,0.07,0.93,Fail,High,Average,20.8
+S0508,32.0,0.062,0.938,Fail,High,At-Risk,29.3
+S0509,44.4,0.75,0.25,Pass,Low,High Performing,47.5
+S0510,49.6,0.881,0.119,Pass,Low,High Performing,50.8
+S0511,36.2,0.184,0.816,Fail,High,Average,37.3
+S0512,18.3,0.001,0.999,Fail,High,At-Risk,24.2
+S0513,20.0,0.001,0.999,Fail,High,Average,20.9
+S0514,40.5,0.42,0.58,Fail,Medium,Average,53.2
+S0515,36.7,0.178,0.822,Fail,High,At-Risk,31.8
+S0516,37.0,0.223,0.777,Fail,High,At-Risk,30.6
+S0517,53.6,0.978,0.022,Pass,Low,High Performing,63.7
+S0518,53.6,0.983,0.017,Pass,Low,High Performing,54.2
+S0519,55.6,0.987,0.013,Pass,Low,High Performing,52.6
+S0520,53.0,0.961,0.039,Pass,Low,High Performing,50.1
+S0521,50.9,0.96,0.04,Pass,Low,High Performing,48.0
+S0522,51.5,0.966,0.034,Pass,Low,High Performing,47.9
+S0523,46.6,0.886,0.114,Pass,Low,At-Risk,40.0
+S0524,49.6,0.909,0.091,Pass,Low,Average,42.2
+S0525,43.1,0.561,0.439,Pass,Medium,At-Risk,46.4
+S0526,38.7,0.213,0.787,Fail,High,At-Risk,35.5
+S0527,49.0,0.897,0.103,Pass,Low,High Performing,55.4
+S0528,41.9,0.628,0.372,Pass,Medium,Average,48.3
+S0529,45.7,0.811,0.189,Pass,Low,Average,47.1
+S0530,35.3,0.136,0.864,Fail,High,At-Risk,28.9
+S0531,50.9,0.95,0.05,Pass,Low,High Performing,50.8
+S0532,32.6,0.048,0.952,Fail,High,At-Risk,38.0
+S0533,63.8,0.999,0.001,Pass,Low,High Performing,68.1
+S0534,50.0,0.902,0.098,Pass,Low,High Performing,49.6
+S0535,37.4,0.141,0.859,Fail,High,At-Risk,42.8
+S0536,48.2,0.871,0.129,Pass,Low,At-Risk,48.0
+S0537,43.1,0.673,0.327,Pass,Medium,At-Risk,44.2
+S0538,38.9,0.217,0.783,Fail,High,At-Risk,36.1
+S0539,38.1,0.257,0.743,Fail,High,At-Risk,28.4
+S0540,42.5,0.612,0.388,Pass,Medium,High Performing,44.0
+S0541,42.3,0.571,0.429,Pass,Medium,Average,46.0
+S0542,52.1,0.966,0.034,Pass,Low,High Performing,55.0
+S0543,48.3,0.91,0.09,Pass,Low,Average,50.0
+S0544,51.9,0.947,0.053,Pass,Low,High Performing,50.4
+S0545,52.3,0.939,0.061,Pass,Low,High Performing,49.2
+S0546,48.0,0.91,0.09,Pass,Low,Average,50.6
+S0547,47.6,0.898,0.102,Pass,Low,High Performing,50.0
+S0548,51.3,0.943,0.057,Pass,Low,Average,48.6
+S0549,46.4,0.842,0.158,Pass,Low,Average,52.2
+S0550,40.5,0.253,0.747,Fail,High,High Performing,36.3
+S0551,43.4,0.577,0.423,Pass,Medium,At-Risk,40.4
+S0552,51.6,0.96,0.04,Pass,Low,Average,59.5
+S0553,57.5,0.989,0.011,Pass,Low,High Performing,62.1
+S0554,60.4,0.998,0.002,Pass,Low,High Performing,58.7
+S0555,46.6,0.846,0.154,Pass,Low,Average,48.5
+S0556,44.7,0.763,0.237,Pass,Low,At-Risk,45.2
+S0557,44.0,0.69,0.31,Pass,Medium,Average,26.8
+S0558,54.5,0.984,0.016,Pass,Low,High Performing,50.4
+S0559,36.5,0.129,0.871,Fail,High,Average,36.4
+S0560,39.6,0.343,0.657,Fail,High,Average,40.3
+S0561,34.2,0.045,0.955,Fail,High,At-Risk,35.3
+S0562,55.0,0.983,0.017,Pass,Low,High Performing,60.6
+S0563,42.8,0.514,0.486,Pass,Medium,At-Risk,40.8
+S0564,48.3,0.928,0.072,Pass,Low,Average,43.1
+S0565,33.5,0.047,0.953,Fail,High,Average,35.2
+S0566,45.4,0.822,0.178,Pass,Low,Average,43.5
+S0567,46.7,0.832,0.168,Pass,Low,High Performing,45.8
+S0568,38.5,0.339,0.661,Fail,High,At-Risk,36.3
+S0569,54.2,0.983,0.017,Pass,Low,High Performing,65.7
+S0570,46.7,0.858,0.142,Pass,Low,At-Risk,35.5
+S0571,34.9,0.113,0.887,Fail,High,At-Risk,32.6
+S0572,26.4,0.006,0.994,Fail,High,Average,26.2
+S0573,55.7,0.99,0.01,Pass,Low,High Performing,53.6
+S0574,53.9,0.987,0.013,Pass,Low,Average,58.5
+S0575,44.6,0.706,0.294,Pass,Low,At-Risk,48.5
+S0576,46.7,0.786,0.214,Pass,Low,Average,46.5
+S0577,57.4,0.992,0.008,Pass,Low,Average,56.4
+S0578,61.8,0.998,0.002,Pass,Low,High Performing,62.1
+S0579,37.1,0.117,0.883,Fail,High,At-Risk,36.3
+S0580,41.5,0.458,0.542,Fail,Medium,At-Risk,39.6
+S0581,54.4,0.985,0.015,Pass,Low,High Performing,54.0
+S0582,31.2,0.044,0.956,Fail,High,At-Risk,31.7
+S0583,56.7,0.99,0.01,Pass,Low,High Performing,60.2
+S0584,55.1,0.986,0.014,Pass,Low,High Performing,49.3
+S0585,51.0,0.969,0.031,Pass,Low,Average,45.9
+S0586,47.6,0.844,0.156,Pass,Low,Average,38.7
+S0587,36.2,0.112,0.888,Fail,High,Average,40.7
+S0588,52.7,0.965,0.035,Pass,Low,Average,54.3
+S0589,45.4,0.668,0.332,Pass,Medium,High Performing,47.4
+S0590,25.5,0.004,0.996,Fail,High,Average,18.2
+S0591,28.3,0.013,0.987,Fail,High,At-Risk,37.0
+S0592,29.4,0.018,0.982,Fail,High,At-Risk,25.8
+S0593,49.9,0.914,0.086,Pass,Low,Average,50.8
+S0594,53.9,0.977,0.023,Pass,Low,High Performing,58.9
+S0595,55.7,0.991,0.009,Pass,Low,High Performing,51.2
+S0596,62.9,0.998,0.002,Pass,Low,Average,60.9
+S0597,38.8,0.241,0.759,Fail,High,At-Risk,39.8
+S0598,32.3,0.059,0.941,Fail,High,At-Risk,46.0
+S0599,41.7,0.524,0.476,Pass,Medium,Average,43.3
+S0600,36.2,0.117,0.883,Fail,High,At-Risk,44.0
