@@ -1,0 +1,9 @@
+STUDENT PERFORMANCE SEGMENTATION
+
+
+Student Count:
+segment
+At-Risk            217
+Average            193
+High Performing    190
+Name: count, dtype: int64

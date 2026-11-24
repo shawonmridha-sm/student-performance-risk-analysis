@@ -1,0 +1,16 @@
+KNN CLASSIFICATION RESULTS
+Test Accuracy: 0.758
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        Fail       0.68      0.45      0.54        38
+        Pass       0.78      0.90      0.84        82
+
+    accuracy                           0.76       120
+   macro avg       0.73      0.67      0.69       120
+weighted avg       0.75      0.76      0.74       120
+
+
+
+Five Similar Students:

@@ -1,0 +1,15 @@
+LOGISTIC REGRESSION RESULTS
+Best C: 1
+Test Accuracy: 0.842
+CV Accuracy: 0.808
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        Fail       0.76      0.74      0.75        38
+        Pass       0.88      0.89      0.88        82
+
+    accuracy                           0.84       120
+   macro avg       0.82      0.81      0.82       120
+weighted avg       0.84      0.84      0.84       120
+

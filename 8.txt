@@ -1,0 +1,4 @@
+Training Records: 480
+Testing Records: 120
+Feature Count: 8
+Data splitting and scaling completed!

@@ -1,0 +1,24 @@
+Please upload student_data.csv
+
+Saving student_data.csv to student_data.csv
+Dataset Shape: (610, 10)
+
+
+Dataset Information:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 610 entries, 0 to 609
+Data columns (total 10 columns):
+ #   Column              Non-Null Count  Dtype  
+---  ------              --------------  -----  
+ 0   student_id          610 non-null    object 
+ 1   gender              610 non-null    object 
+ 2   parental_education  610 non-null    object 
+ 3   extracurricular     610 non-null    object 
+ 4   attendance          595 non-null    float64
+ 5   study_hours         595 non-null    float64
+ 6   previous_marks      594 non-null    float64
+ 7   assignment_marks    595 non-null    float64
+ 8   internal_marks      610 non-null    float64
+ 9   final_marks         610 non-null    float64
+dtypes: float64(6), object(4)
+memory usage: 47.8+ KB

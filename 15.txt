@@ -1,0 +1,23 @@
+ENTER NEW STUDENT DETAILS
+Enter Student ID: 0022
+Enter Attendance (0-100): 56
+Enter Study Hours (0-16): 10
+Enter Previous Marks (0-100): 56
+Enter Assignment Marks (0-100): 25
+Enter Internal Marks (0-100): 45
+Gender (Male/Female): MALE
+Parent Education (School/Graduate/Postgraduate): Graduate
+Extracurricular (Yes/No): No
+
+======================================
+       STUDENT PREDICTION REPORT
+======================================
+Student ID: 0022
+Predicted Final Marks: 49.87
+Pass Probability: 94.16 %
+Fail Probability: 5.84 %
+Logistic Regression Result: Pass
+KNN Result: Pass
+Academic Risk: Low
+Performance Segment: Average
+======================================
